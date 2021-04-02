@@ -2,5 +2,5 @@
 daily task
 git
 postman
-github
 Api gateway
+Aws lambda function
